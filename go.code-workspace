@@ -3,9 +3,12 @@
 		{
 			"path": "01-helloworld"
 		},
-    {
+		{
 			"path": "02-cards"
+		},
+		{
+			"path": "03-even-odd"
 		}
-  ],
+	],
   "settings": {}
 }
