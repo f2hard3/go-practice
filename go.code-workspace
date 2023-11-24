@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "03-even-odd"
+		},
+		{
+			"path": "04-structs"
 		}
 	],
   "settings": {}
