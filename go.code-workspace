@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "04-structs"
+		},
+		{
+			"path": "05-maps"
 		}
 	],
   "settings": {}
