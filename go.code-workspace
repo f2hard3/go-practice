@@ -14,6 +14,9 @@
 		},
 		{
 			"path": "05-maps"
+		},
+		{
+			"path": "06-interfaces"
 		}
 	],
   "settings": {}
