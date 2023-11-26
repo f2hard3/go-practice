@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "07-http"
+		},
+		{
+			"path": "08-shape-interface"
 		}
 	],
   "settings": {}
