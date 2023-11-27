@@ -26,6 +26,9 @@
 		},
 		{
 			"path": "09-read-file-interface"
+		},
+		{
+			"path": "10-channels"
 		}
 	],
   "settings": {}
